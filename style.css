@@ -1,0 +1,123 @@
+@import url(<link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">);
+* {
+	box-sizing: border-box;
+	 -webkit-margin-before: 0em;
+    -webkit-margin-after: 0em;
+}
+body {
+	margin: 0 auto;
+	background-color: #ecf0f1;
+	color: #003366;
+	padding-top: 96px;
+	font-family: 'Indie Flower', cursive;
+}
+.container-fluid {
+	padding-right: 0;
+	padding-left: 0;
+}
+.btn {
+	border-radius: 0;
+	background-color: rgb(255, 138, 146);
+	border: none;
+	font-size: 2rem;
+}
+.btn:hover {
+	background-color: #286090;;
+}
+nav {
+	background-color: rgba(255, 138, 146, 0.8);
+	font-size: 2rem;	
+}
+.navbar-header img {
+	padding-left: 20px;
+}
+.navbar-header span {
+	font-size: 3rem;
+	color: #003366;
+	line-height: 50px;
+	}
+.navbar-header span:hover{
+	color: red;
+}
+.navbar-nav>li>a {
+	line-height: 66px;
+	margin-left: 20px;
+}
+
+.navbar-nav button {
+	display: block;
+	max-width: 100%;
+	margin-left: 20px;
+	color: #337ab7;
+	line-height: 96px;
+	padding-bottom: 0;
+	padding-top: 0;
+}
+.navbar-nav button:hover {
+	background-color: #eee;
+	max-width: 100%;
+}
+.navbar-nav .btn {
+	background-color: rgba(255, 138, 146, 0);
+	border: none;
+}
+.navbar-form button {
+	background-color: rgba(255, 138, 146, 0);
+	border: none;
+	color: #337ab7;
+	line-height: 66px;
+}
+.navbar-form button:hover {
+	background-color: rgba(255, 138, 146, 0);
+}
+.navbar-form button:focus {
+	background-color: rgba(255, 138, 146, 0);
+}
+#hamburger-menu {
+	max-height: inherit;
+}
+.dropdown li {
+	padding: 10px;
+}
+.dropdown ul {
+	background-color: rgb(255, 138, 146);
+}
+[class*="example"]{
+  	min-height: 400px;
+}
+.example-1 {
+	background: url("https://images.pexels.com/photos/2920/food-chocolate-sweet-cookies.jpg?w=940&h=650&auto=compress&cs=tinysrgb") no-repeat center/cover;
+}
+.example-2 {
+	background: url("https://images.pexels.com/photos/266873/pexels-photo-266873.jpeg?w=940&h=650&auto=compress&cs=tinysrgb") no-repeat center/cover;
+}
+.example-2 {
+	background: url("https://images.pexels.com/photos/266873/pexels-photo-266873.jpeg?w=940&h=650&auto=compress&cs=tinysrgb") no-repeat center/cover;
+}
+.example-3 {
+	background: url("https://images.pexels.com/photos/90604/pexels-photo-90604.png?w=940&h=650&auto=compress&cs=tinysrgb") no-repeat center/cover;
+}
+.example-4 {
+	background: url("https://images.pexels.com/photos/240712/pexels-photo-240712.jpeg?w=940&h=650&auto=compress&cs=tinysrgb") no-repeat center/cover;
+}
+.recipt {
+	margin-top: 60px;
+}
+.info {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.container {
+	text-align: center;
+}
+.tab-content {
+	box-shadow: 10px 10px 5px #888888;
+	padding-bottom; 20px;
+}
+.tab-content h3 {
+	padding-top: 40px;
+	padding-bottom: 20px;
+}
+.tab-content p {
+	padding-bottom: 40px;
+}
