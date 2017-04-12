@@ -86,19 +86,16 @@ nav {
   	min-height: 400px;
 }
 .example-1 {
-	background: url("https://images.pexels.com/photos/2920/food-chocolate-sweet-cookies.jpg?w=940&h=650&auto=compress&cs=tinysrgb") no-repeat center/cover;
+	background: url("img/chocolate.jpg") no-repeat center/cover;
 }
 .example-2 {
-	background: url("https://images.pexels.com/photos/266873/pexels-photo-266873.jpeg?w=940&h=650&auto=compress&cs=tinysrgb") no-repeat center/cover;
-}
-.example-2 {
-	background: url("https://images.pexels.com/photos/266873/pexels-photo-266873.jpeg?w=940&h=650&auto=compress&cs=tinysrgb") no-repeat center/cover;
+	background: url("img/strawberry.jpg") no-repeat center/cover;
 }
 .example-3 {
-	background: url("https://images.pexels.com/photos/90604/pexels-photo-90604.png?w=940&h=650&auto=compress&cs=tinysrgb") no-repeat center/cover;
+	background: url("img/blackberry.jpg") no-repeat center/cover;
 }
 .example-4 {
-	background: url("https://images.pexels.com/photos/240712/pexels-photo-240712.jpeg?w=940&h=650&auto=compress&cs=tinysrgb") no-repeat center/cover;
+	background: url("img/pizza.jpg") no-repeat center/cover;
 }
 .recipt {
 	margin-top: 60px;
